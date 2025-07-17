@@ -154,6 +154,9 @@ QUESTIONS:
 The output of facility name and total revenue, sorted by revenue. Remember
 that there's a different cost for guests and members! */
 
+
+#PLEASE CHECK THE JUPYTER NOTEBOOK THAT IS IN THIS FOLDER FOR THE REST OF THE QUESTIONS 10-13
+
 ('Table Tennis', 180)
 ('Snooker Table', 240)
 ('Pool Table', 270)
@@ -183,7 +186,6 @@ that there's a different cost for guests and members! */
 ('Rownam', 'Tim', None, None)
 ('Rumney', 'Henrietta', 'Genting', 'Matthew')
 ('Sarwin', 'Ramnaresh', 'Bader', 'Florence')
-('Smith', 'Darren', None, None)
 ('Smith', 'Darren', None, None)
 ('Smith', 'Jack', 'Smith', 'Darren')
 ('Smith', 'Tracy', None, None)
